@@ -1,0 +1,6 @@
+# Do not accidentally commit personal scouting/backups
+*.backup.json
+*scouting-export*.json
+*.log
+__pycache__/
+.DS_Store
